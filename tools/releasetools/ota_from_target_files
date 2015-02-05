@@ -594,18 +594,19 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
 
   system_progress = 0.75
 
-  script.Print("                    _____________________ ")
-  script.Print("                   /     www.slimroms.net|")
-  script.Print("                  /                      |")
-  script.Print("                 /    ___________________|")
-  script.Print("                /    /    ___             ")
-  script.Print("               /    / ___/   \            ")
-  script.Print("              /    / /   \___/____   ____ ")
-  script.Print("             /    /  |   |___/    \_/    |")
-  script.Print(" ___________/    /   |   |   |           |")
-  script.Print("|               /    |   |   |   |   |   |")
-  script.Print("|              /     |   |   |   |   |   |")
-  script.Print("|_____________/      \___^___^___^___^___/")
+  script.Print("             SlimPop by lovejoy777 @ xda           ")
+  script.Print("  ______       ___             _____       _____   ")
+  script.Print(" /      \  ___/   \           /     \     /     \  ")
+  script.Print("/        \/   \___/____   ____|   0  |___ |   0  | ")
+  script.Print("|    \___/|   |___/    \_/    |      |   \|      | ")
+  script.Print("\        \|   |   |           |    _/     \    _/  ")
+  script.Print(" \___/    |   |   |   |   |   |   |   0    |  |    ")
+  script.Print(" /        |   |   |   |   |   |   |       /   |    ")
+  script.Print(" \_______/\___^___^___^___^___^___/\_____/\___/    ")
+  script.Print("                   SLIMROMS.NET                    ")
+  script.Print("                                                   ")
+  script.Print("                                                   ")
+  script.Print("                                                   ")
   script.Print(" ")
 
   if OPTIONS.wipe_user_data:
